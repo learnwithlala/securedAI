@@ -11,8 +11,6 @@ All scripts are cross-platform and support two modes of operation out-of-the-box
 ## 📂 Repository Structure
 
 ```directory
-├── SecureAI_Day1_Lab_Manual.docx  # Detailed Word manual for Day 1 Labs (Lab 1 & 2)
-├── SecureAI_Day2_Lab_Manual.docx  # Detailed Word manual for Day 2 Labs (Lab 3 & 4)
 ├── requirements.txt               # Unified dependencies file for all labs
 │
 ├── ── Day 1: Attack & Guardrails ──────────────────────────────────────────
