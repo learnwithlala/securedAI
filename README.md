@@ -109,5 +109,5 @@ The exercises in these labs directly map to standard security frameworks:
 ---
 
 ## 🎓 Authors & Course Information
-* **Instructor/Author**: Lalaji (TLS & L&D Department, Top 50 CCISO Hall of Fame)
+* **Instructor/Author**: Lalaji ( Top 50 CCISO Hall of Fame)
 * **Target Audience**: Security Architects, Cloud Security Engineers, Application Security Professionals, Blue Teams & Red Teams.
